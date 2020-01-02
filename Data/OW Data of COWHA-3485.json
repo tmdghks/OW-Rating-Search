@@ -1,0 +1,60 @@
+{
+    "competitiveStats": {
+        "awards": {
+            "cards": 182,
+            "medals": 1335,
+            "medalsBronze": 291,
+            "medalsSilver": 453,
+            "medalsGold": 591
+        },
+        "games": {
+            "played": 397,
+            "won": 203
+        }
+    },
+    "endorsement": 2,
+    "endorsementIcon": "https://static.playoverwatch.com/svg/icons/endorsement-frames-3c9292c49d.svg#_2",
+    "gamesWon": 2756,
+    "icon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/220761cad8019705b8fa644756191c59fa3606a92e955586b6aab8fbb1e81c4e.png",
+    "level": 77,
+    "levelIcon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/2c1464fb96d38839281c0bdb6e1a0cd06769782a5130609c13f6ca76fa358bcf.png",
+    "name": "COWHA#3485",
+    "prestige": 14,
+    "prestigeIcon": "https://d15f34w2p8l1cc.cloudfront.net/overwatch/e8568b9f9f5cac7016955f57c7b192ccd70f7b38504c7849efa8b1e3f7a1b077.png",
+    "private": false,
+    "quickPlayStats": {
+        "awards": {
+            "cards": 636,
+            "medals": 4950,
+            "medalsBronze": 1333,
+            "medalsSilver": 1589,
+            "medalsGold": 2027
+        },
+        "games": {
+            "played": 0,
+            "won": 962
+        }
+    },
+    "rating": 3978,
+    "ratingIcon": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/rank-MasterTier.png",
+    "ratings": [
+        {
+            "level": 4013,
+            "role": "tank",
+            "roleIcon": "https://static.playoverwatch.com/img/pages/career/icon-tank-8a52daaf01.png",
+            "rankIcon": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/rank-GrandmasterTier.png"
+        },
+        {
+            "level": 4080,
+            "role": "damage",
+            "roleIcon": "https://static.playoverwatch.com/img/pages/career/icon-offense-6267addd52.png",
+            "rankIcon": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/rank-GrandmasterTier.png"
+        },
+        {
+            "level": 3843,
+            "role": "support",
+            "roleIcon": "https://static.playoverwatch.com/img/pages/career/icon-support-46311a4210.png",
+            "rankIcon": "https://d1u1mce87gyfbn.cloudfront.net/game/rank-icons/rank-MasterTier.png"
+        }
+    ]
+}
