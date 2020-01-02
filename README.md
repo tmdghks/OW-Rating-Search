@@ -1,10 +1,10 @@
 # OW-Rating-Search
 ### made with python
 
-**how to use**
+## **how to use**
 
-## Open rating search.py
+#### Open rating search.py
 
-## Input your battletag (you need to change "#" to "-")
+#### Input your battletag (you need to change "#" to "-")
 
-## Then it will print tank damage support ratings
+#### Then it will print tank damage support ratings
